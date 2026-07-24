@@ -3,7 +3,7 @@ import streamlit as st
 st.set_page_config(
     page_title="拯救者联盟简介",
     page_icon="🧊",
-    layout="wide",
+    layout="centered",
     initial_sidebar_state="expanded",
     menu_items={
         'Get Help': 'https://7921.e73k.com/enter/index.html',
