@@ -13,12 +13,12 @@ st.set_page_config(
 )
 
 #标题
-st.title("突脸")
+st.title("拯救者联盟")
 
-st.header("qio是神人")
-st.subheader("骚的不行")
+st.header("四人组")
+st.subheader("一般以以下形式出现")
 
-
+st.write("四人组里面一般至少有一个神人")
 st.write("qio是一种类人猿，由于其温顺的性格被誉为人类最好的炮友")
 st.write("它们体型较大，长大后可到达100kg~150kg不等，被誉为类人猿界的“良子”")
 st.write("它在最早期时由于同类之间存在生殖隔离，选择与猿类联姻，以下是珍贵图片")
