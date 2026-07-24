@@ -8,7 +8,7 @@ st.set_page_config(
     menu_items={
         'Get Help': 'https://7921.e73k.com/enter/index.html',
         'Report a bug': "https://7921.e73k.com/enter/index.html",
-        'About': "# This is a header. This is an *extremely* cool app!"
+        'About': "# 这是一个非常牛逼得软件!"
     }
 )
 
